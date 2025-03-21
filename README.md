@@ -1,6 +1,8 @@
   <p align="center"><!-- Optional banner goes here--> </p>
 <div>
+  
 <img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg">
+
 <h2> // Sobre mim </h2>
 <ul>
 <li>👨‍💻 Atualmente trabalho como <strong>Técnico de Informática Jr.</strong></li>
@@ -35,9 +37,6 @@
 </ul>
 </li>
 </ul>
-<!---
 
---->
-<hr>
 <p><a href="https://github.com/guiifreit">guiifreit</a>
 Última edição: 20/03/2025 format.</p></div> 
